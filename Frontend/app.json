@@ -4,7 +4,7 @@
     "slug": "GLOBEX",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "",
     "scheme": "globex",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,8 +13,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./node_modules/expo/AppEntry.js" ,
+  "backgroundColor": "#000000"
       },
       "edgeToEdgeEnabled": true
     },
