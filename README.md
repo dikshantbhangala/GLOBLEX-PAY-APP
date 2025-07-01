@@ -48,3 +48,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+![Screenshot 2025-07-02 001205](https://github.com/user-attachments/assets/c6d96484-a5a1-4354-81ef-1f6ad64e049f)
+
+
+front page
+
+
