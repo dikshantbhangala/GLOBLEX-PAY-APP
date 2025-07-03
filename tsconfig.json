@@ -1,6 +1,18 @@
 {
+<<<<<<< HEAD
   "compilerOptions": {},
   "extends": "expo/tsconfig.base",
+=======
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+>>>>>>> 6a93b91e88939494a8f21972bab6d697421efda8
   "include": [
     "**/*.ts",
     "**/*.tsx",
